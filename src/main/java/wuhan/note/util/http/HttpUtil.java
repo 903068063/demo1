@@ -1,8 +1,6 @@
 package wuhan.note.util.http;
 
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
-import java.util.Date;
 import java.util.Map;
 
 import org.apache.http.HttpResponse;
